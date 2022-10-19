@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666158478 source:c:\users\eggsy-j\programming\c_language\codeblock\c-nth\exam061\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
